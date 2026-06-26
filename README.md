@@ -162,6 +162,6 @@ See `requirements.txt` for full list. Key dependencies:
 
 ---
 
-## Author
+## Authors
 
-**Yogavarshini** — EEG Signal Processing & Deep Learning Project
+**Sri Raghav, yoga prasanna varma and navin** — EEG Signal Processing & Deep Learning Project
